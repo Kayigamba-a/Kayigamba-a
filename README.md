@@ -1,45 +1,45 @@
-<h1 align="center">Hi, I'm Kayigamba Iris</h1>
+<h1 align="center">Hi, I'm Iris Kayigamba</h1>
 <h3 align="center">Software Engineering Student | Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=720&lines=Building+reliable+backend+applications;Learning+Java%2C+Python+and+Django;Clean+Code+Advocate+%7C+Problem+Solver;Passionate+about+Software+Engineering+and+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Backend+Development+with+Django+and+Java;I+learn+best+by+building+things;Building+practical+technology+solutions;Always+curious.+Always+learning." alt="Typing SVG" />
 </p>
 
-### 👩🏽‍💻 About Me
+### About Me
 
-I am a **Software Engineering student and aspiring Backend Developer** with a strong interest in **backend development, APIs, databases, and scalable software systems**.  
+Hi, I’m **Iris Kayigamba**, a Software Engineering student and developer with a strong interest in **backend development and building practical technology solutions**.
 
-I enjoy building practical applications, solving programming problems, and continuously improving my skills in modern software development.
+I’ve worked with **Django, Java Spring Boot, databases, REST APIs, and IoT systems**, and I enjoy understanding how different technologies connect to solve real problems.
 
-I am especially interested in creating clean, maintainable, and reliable backend systems that solve real-world problems.
+What describes me best is that I’m very curious. I don’t just want to know how something works — I like building it, breaking it, fixing it, and understanding why it works the way it does.
 
-### 🛠️ Tech Stack
-
-**Languages:**  
-Java, Python, C, JavaScript, HTML, CSS, SQL
-
-**Backend:**  
-Django, Django REST Framework, Spring Boot, REST APIs
-
-**Databases:**  
-MySQL, PostgreSQL, SQLite
-
-**Tools & Technologies:**  
-Git, GitHub, VS Code, Postman, Docker, Linux, Swagger/OpenAPI
-
-### 🌱 Currently Learning
-
-- Backend development with **Django & Django REST Framework**
-- Backend development with **Spring Boot**
-- Data Structures & Algorithms
-- REST API design
-- Software testing
-- Docker & DevOps fundamentals
-- Scalable software architecture
+My goal is to keep growing into a strong software engineer who can build reliable systems and create technology that solves meaningful everyday problems.
 
 ---
 
-## 📊 GitHub Stats
+### Tech Stack
+
+**Languages**  
+Java • Python • SQL • C • HTML • CSS
+
+**Backend**  
+Django • Django REST Framework • Spring Boot • REST APIs
+
+**Databases**  
+MySQL • PostgreSQL • SQLite
+
+**Tools**  
+Git • GitHub • VS Code • Postman • Linux • Docker • Figma
+
+---
+
+### Currently Learning
+
+Spring Boot • Django • Data Structures & Algorithms
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kayigamba-a&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -51,23 +51,6 @@ Git, GitHub, VS Code, Postman, Docker, Linux, Swagger/OpenAPI
 
 ---
 
-###  What I Enjoy Building
-
-- Backend systems
-- REST APIs
-- Database-driven applications
-- Java applications
-- Django applications
-- Software engineering projects
-- Real-world problem-solving solutions
----
-
-###  My Goal
-
-My goal is to become a skilled **Software Engineer and Backend Developer** capable of building secure, scalable, maintainable, and impactful software systems.
-
----
-
 <p align="center">
-  <b>Always learning. Always building. 🚀</b>
+  <b>Build it. Break it. Fix it. Understand it.</b>
 </p>
