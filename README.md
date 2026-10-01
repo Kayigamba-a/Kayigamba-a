@@ -1,107 +1,41 @@
-# 👋 Hey, I'm Kayigamba Iris!
+<h1 align="center">Hi, I'm Kayigamba Iris</h1>
+<h3 align="center">Software Engineering Student | Backend Developer</h3>
 
-### 💻 Software Engineering Student | Backend Developer | Tech Enthusiast
-
-Welcome to my GitHub! 🚀
-
-I'm a Software Engineering student based in Kigali, Rwanda, passionate about building useful, reliable, and scalable software solutions.
-
-I enjoy turning ideas into working applications, learning new technologies, and continuously improving my development skills.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Software Engineering student
-- 💻 Interested in backend development and software engineering
-- 🌱 Currently learning and improving my skills in **Java, Python, Django, and Web Development**
-- 🔧 I enjoy building systems that solve real-world problems
-- 📚 Always learning something new
-- 🌍 Based in Kigali, Rwanda
-- 🚀 Interested in building impactful technology
-
----
-
-## 🛠️ Technologies & Tools
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=720&lines=Building+reliable+backend+applications;Learning+Java%2C+Python+and+Django;Clean+Code+Advocate+%7C+Problem+Solver;Passionate+about+Software+Engineering+and+APIs" alt="Typing SVG" />
 </p>
 
-### Frameworks & Technologies
+### 👩🏽‍💻 About Me
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+I am a **Software Engineering student and aspiring Backend Developer** with a strong interest in **backend development, APIs, databases, and scalable software systems**.  
 
----
+I enjoy building practical applications, solving programming problems, and continuously improving my skills in modern software development.
 
-## 🚀 Featured Projects
+I am especially interested in creating clean, maintainable, and reliable backend systems that solve real-world problems.
 
-### 🚌 Bus Management System
+### 🛠️ Tech Stack
 
-A software project focused on managing bus transportation operations.
+**Languages:**  
+Java, Python, C, JavaScript, HTML, CSS, SQL
 
-**Technologies:**
-- Java
-- Object-Oriented Programming
-- Software Engineering principles
+**Backend:**  
+Django, Django REST Framework, Spring Boot, REST APIs
 
-🔗 [View Repository](https://github.com/Kayigamba-a/bus-management-system)
+**Databases:**  
+MySQL, PostgreSQL, SQLite
 
----
+**Tools & Technologies:**  
+Git, GitHub, VS Code, Postman, Docker, Linux, Swagger/OpenAPI
 
-### 🌱 AgroConnect
+### 🌱 Currently Learning
 
-A project focused on connecting technology with agricultural needs and services.
-
-**Technologies:**
-- Java
-- Object-Oriented Programming
-
-🔗 [View Repository](https://github.com/Kayigamba-a/agroconnect)
-
----
-
-### 🌐 Intro to Web Development
-
-A collection of work and exercises related to learning web development.
-
-**Technologies:**
-- HTML
-- CSS
-- Web Development
-
-🔗 [View Repository](https://github.com/Kayigamba-a/intro-to-web-development)
-
----
-
-### 🍲 Recipe Project
-
-A web development project focused on presenting and working with recipes.
-
-**Technologies:**
-- HTML
-- CSS
-- Web Development
-
-🔗 [View Repository](https://github.com/Kayigamba-a/recipe-page-main)
-
----
-
-### ☕ OOP Assignment
-
-An academic project focused on **Object-Oriented Programming** concepts and implementation.
-
-**Technology:**
-- Java
+- Backend development with **Django & Django REST Framework**
+- Backend development with **Spring Boot**
+- Data Structures & Algorithms
+- REST API design
+- Software testing
+- Docker & DevOps fundamentals
+- Scalable software architecture
 
 ---
 
@@ -117,54 +51,23 @@ An academic project focused on **Object-Oriented Programming** concepts and impl
 
 ---
 
-## 📈 What I'm Working On
+###  What I Enjoy Building
 
-I'm currently focused on improving my skills in:
-
-- 🐍 Python & Django
-- ☕ Java & Object-Oriented Programming
-- 🌐 Web Development
-- 🗄️ Backend Development
-- 🔐 Building reliable software systems
-- 🧠 Problem Solving & Algorithms
-- 🤝 Collaborative Software Development
-
+- Backend systems
+- REST APIs
+- Database-driven applications
+- Java applications
+- Django applications
+- Software engineering projects
+- Real-world problem-solving solutions
 ---
 
-## 🎯 My Goals
+###  My Goal
 
-My goal is to grow into a well-rounded software engineer capable of designing and building systems that are:
-
-- ⚡ Efficient
-- 🔒 Secure
-- 📈 Scalable
-- 🧩 Maintainable
-- 🌍 Useful to real users
-
-I'm particularly interested in backend engineering and building software that solves practical problems.
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/Kayigamba-a">
-    <img src="https://img.shields.io/badge/GitHub-Kayigamba--a-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 💭 Developer Quote
-
-> "The best way to learn programming is to build things."
+My goal is to become a skilled **Software Engineer and Backend Developer** capable of building secure, scalable, maintainable, and impactful software systems.
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep growing. 🚀</i>
+  <b>Always learning. Always building. 🚀</b>
 </p>
