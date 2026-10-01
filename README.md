@@ -22,16 +22,16 @@ Java • Python • SQL • C • HTML • CSS
 Django • Django REST Framework • Spring Boot • REST APIs
 
 **Databases**  
-MySQL • PostgreSQL • SQLite
+MySQL • PostgreSQL 
 
 **Tools**  
-Git • GitHub • VS Code • Postman • Linux • Docker • Figma
+Git • GitHub • VS Code • Postman • Figma
 
 ---
 
 ### 🌱 Currently Learning
 
-Spring Boot • Django • Data Structures & Algorithms
+Spring Boot • Django • DSA
 
 ---
 
